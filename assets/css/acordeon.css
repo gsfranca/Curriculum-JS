@@ -78,7 +78,7 @@
         /*Background*/
             background-repeat: no-repeat;
             background-size: contain;
-            background-image: url(/assets/img/icons/arrow.svg);
+            background-image: url(../img/icons/arrow.svg);
 
         /*Position*/
             display: inline-block;
