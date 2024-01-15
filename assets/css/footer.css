@@ -1,0 +1,16 @@
+footer
+{
+    /*Size*/
+        width: 100%;
+        padding: 1rem;
+
+    /*Position*/
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+}
+footer img
+{
+    max-width: 100px;
+}
