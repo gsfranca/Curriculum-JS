@@ -28,7 +28,7 @@
     }
 
 /*Titulo do projeto*/
-    .portifolio li .title
+    .portifolio li h3
     {
         /*Text*/
             font-size: 1.25rem;
@@ -45,7 +45,7 @@
     }
 
 /*Titulo do projeto*/
-    .portifolio li .title.github::before
+    .portifolio li h3.github::before
     {
         /*Content*/
             content: '';
